@@ -1,0 +1,18 @@
+{
+    "name": "link-agen-deposit-5000-v2",
+    "theme": "ui",
+    "version": "1.1.4",
+    "description": "link agen deposit 5000 gacor",
+    "keywords": [
+      "agen 5000",
+      "deposit 5000",
+      "agen 5000 login",
+      "agen 5000 slot"
+    ],
+    "repository": "https://github.com/insideourheart/jiwakumengatom",
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    }
+  }
+  
